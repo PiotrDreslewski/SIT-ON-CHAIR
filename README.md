@@ -1,2 +1,2 @@
-# Coders_Lab_HTML_Warsztat
+Coders Lab Workshop
 Sit on Chair
