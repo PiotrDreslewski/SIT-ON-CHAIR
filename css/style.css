@@ -429,7 +429,7 @@ a {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
 }
-.form textarea {
+.form .message {
     width: 630px;
     height:188px;
     border: 1px solid #24ba9f;
